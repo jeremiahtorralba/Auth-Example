@@ -4,7 +4,7 @@ ASP.NET Account registration - Email
 ### Register using Email
 ![register](https://user-images.githubusercontent.com/28037427/218297920-61968cc3-741b-4fa7-86f7-85c2c8440e50.jpg)
 
-### Register Validation
+### Register password validation
 ![register password error handling](https://user-images.githubusercontent.com/28037427/218297925-1a81e607-fa6f-4f3e-a39e-a83987b19051.jpg)
 
 ### Register/Login landing page
