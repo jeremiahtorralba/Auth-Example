@@ -1,4 +1,5 @@
-# Auth-Example ### [Register](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#register-using-email)| [Password Validation](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#register-password-validation)| [Landing page](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#registerlogin-landing-page)
+# Auth-Example
+### [Register](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#register-using-email)| [Password Validation](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#register-password-validation)| [Landing page](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#registerlogin-landing-page)
 | [Account](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#account-management)| [Change password](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#changing-account-password)| [Password change confirmed](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#account-password-changed)| [Web.config](https://github.com/jeremiahtorralba/Auth-Example/blob/main/README.md#webconfig-lines-11-13-connectionstring---add-mdf-and-initial-catalog-names)
 ASP.NET Account registration - Email
 
