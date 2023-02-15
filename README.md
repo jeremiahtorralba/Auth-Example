@@ -18,3 +18,10 @@ ASP.NET Account registration - Email
 
 ### Account password changed
 ![manage account - changed password](https://user-images.githubusercontent.com/28037427/218297953-8c5df877-1541-4a19-8647-f599e850674b.jpg)
+
+### Web.config, lines 11-13, connectionString - add .mdf and Initial Catalog names.
+```
+<connectionStrings>
+    <add name="DefaultConnection" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\.MDF FILE NAME HERE .mdf;Initial Catalog=INITIAL CATALOG HERE;Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+```
